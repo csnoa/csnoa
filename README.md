@@ -1,8 +1,5 @@
-
-
-
 <h1 align="center">
-soars fan club :)
+noob
 </h1>
 
 ### Programming Languages
