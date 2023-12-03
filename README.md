@@ -1,7 +1,3 @@
-<h1 align="center">
-noob
-</h1>
-
 ### Programming Languages
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/c.svg'> </a>
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/cpp.svg'> </a>
